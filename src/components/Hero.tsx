@@ -157,7 +157,7 @@ export default function Hero() {
               className="text-4xl sm:text-5xl md:text-6xl xl:text-[5.4rem] font-black tracking-tight text-brand-dark leading-[0.92] uppercase font-sans flex flex-col"
             >
               <span className="text-brand-red font-semibold tracking-[0.25em] text-[10px] sm:text-xs uppercase mb-4 select-none">
-                // PEARSON SPECTER LITT DISPUTE CHAMBERS
+                // Gordon Schmidt DISPUTE CHAMBERS
               </span>
               <span>WE DON'T</span>
               <span>COMPROMISE.</span>
@@ -212,7 +212,7 @@ export default function Hero() {
             {/* Professional Portrait of Male Attorney */}
             <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-xl overflow-hidden bg-brand-light flex-shrink-0 relative group">
               <img 
-                src="/src/assets/images/attorney_portrait_1782746810027.jpg" 
+                src="https://i.ibb.co/y9jz7Wj/Ein-professionelles-Bewerbungsfoto-ist-der-Schl-ssel-zu-einem-erfolgreichen-Auftreten-im-Job-Der.jpg" 
                 alt="Arthur Smith" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                 referrerPolicy="no-referrer"

@@ -101,7 +101,7 @@ export const TESTIMONIALS: Testimonial[] = [
     author: "Elena Rostova",
     company: "Velocity Tech",
     role: "CEO & Co-Founder",
-    avatar: "/src/assets/images/testimonial_client_1782746825099.jpg", // Generated female entrepreneur
+    avatar: "https://i.ibb.co/8nbn1cdB/Locker-Modern-Selbstbewusst-sympathisch-und-professionell-dein-Bewerbungsfoto-sollte-dich.jpg", // Generated female entrepreneur
     audioDuration: "2:45"
   },
   {
@@ -128,7 +128,7 @@ export const DIAGNOSTIC_ATTORNEYS = {
   corporate: {
     attorneyName: "Arthur Smith",
     attorneyTitle: "Managing Partner, Corporate Finance & VC",
-    attorneyImage: "/src/assets/images/attorney_portrait_1782746810027.jpg", // Generated attorney portrait
+    attorneyImage: "https://i.ibb.co/y9jz7Wj/Ein-professionelles-Bewerbungsfoto-ist-der-Schl-ssel-zu-einem-erfolgreichen-Auftreten-im-Job-Der.jpg", // Generated attorney portrait
     matchScore: 98,
     focusArea: "Venture Financing & M&A",
     strategyMessage: "Your profile indicates high demand for sophisticated venture governance and rapid financing coordination. Arthur Smith specializes in structuring high-leverage deals that minimize founder dilution."
